@@ -1,2 +1,2 @@
 # servomotors
-servomotors to control a robot arm
+servomotors ( robot legs movements )
